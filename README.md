@@ -1,4 +1,4 @@
-# romanToInt
+# Roman to Int calculator Java
 
 **Roman to Int calculator Java**
 
