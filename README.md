@@ -7,7 +7,7 @@ Kristina Safonova
 
 **How to launch?**
 Open your personal code editor.
-Write git clone https://github.com/krstnvt/romanToInt.git in Terminal
+Write git clone https://github.com/krstnvt/Roman-to-Int-calculator-Java.git in Terminal
 
 **What was used?**
 GF63 Thin11UD Laptop Windows 11
